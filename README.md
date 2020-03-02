@@ -2,4 +2,4 @@
 
 Elizabeth Harrison, Yi Hao, Myron Chang 
 
-Please see its Private Repo for more codes and details.
+More details and codes are in its Private Repo.
